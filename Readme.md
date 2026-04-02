@@ -18,13 +18,9 @@ A simple and interactive Counter Application built using HTML, CSS, and JavaScri
 * Click *+* to increase the counter
 * Click *-* to decrease the counter
 * Click *Reset* to set counter to 0
-* Use keyboard:
-  * ⬆ Arrow Up → Increase
-  * ⬇ Arrow Down → Decrease
-  * *R* → Reset
 
 # Live Demo
-(Add your deployed link here)
+https://nyx-anna.github.io/Counter-App/
 
 # Learnings
 * DOM selection and manipulation
